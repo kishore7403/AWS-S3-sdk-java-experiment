@@ -28,10 +28,7 @@ To run the experiment, follow the steps below:
 
 7. The program will execute the selected operation and display a success message.
 
-## Citations
+![flowchart](https://github.com/kishore7403/AWS-S3-sdk-java-experiment/assets/48860055/d2f6cf36-a1ef-4936-934a-4eb480cb0f15)
 
-Include proper citations for any manuals, tools, or references used during the experiment.
-
----
 
 Feel free to modify and adapt this README file to meet the specific requirements of your assignment.
